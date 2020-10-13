@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\smith\source\repos\project12\project12\sorting.h(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\smith\source\repos\project12\project12\sorting.h(126): warning C4018: '<=': signed/unsigned mismatch
+c:\users\smith\source\repos\project12\project12\sorting.h(141): warning C4018: '<=': signed/unsigned mismatch
+c:\users\smith\source\repos\project12\project12\sorting.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\smith\source\repos\project12\project12\sorting.h(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\smith\source\repos\project12\project12\main.cpp(25): warning C4101: 'numElements': unreferenced local variable
+  Project12.vcxproj -> C:\Users\smith\source\repos\Project12\Debug\Project12.exe
