@@ -1,0 +1,18 @@
+﻿  GridGraph.cpp
+d:\algorithms(c++)\assign7final\final\gridgraph.h(43): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.h(193): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.h(198): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(32): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(115): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(264): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(295): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(321): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(354): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(378): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.cpp(382): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+d:\algorithms(c++)\assign7final\final\gridgraph.h(43): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.h(193): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign7final\final\gridgraph.h(198): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  final.vcxproj -> D:\Algorithms(C++)\Assign7Final\Debug\final.exe
