@@ -1,0 +1,38 @@
+﻿  main.cpp
+d:\algorithms(c++)\assign4\project13\main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\algorithms(c++)\assign4\project13\hashtable.h(160): warning C4018: '<': signed/unsigned mismatch
+  d:\algorithms(c++)\assign4\project13\hashtable.h(157): note: while compiling class template member function 'void HashTable<int,__int64>::DeleteByKey(K)'
+          with
+          [
+              K=__int64
+          ]
+  d:\algorithms(c++)\assign4\project13\main.cpp(51): note: see reference to function template instantiation 'void HashTable<int,__int64>::DeleteByKey(K)' being compiled
+          with
+          [
+              K=__int64
+          ]
+  d:\algorithms(c++)\assign4\project13\main.cpp(43): note: see reference to class template instantiation 'HashTable<int,__int64>' being compiled
+d:\algorithms(c++)\assign4\project13\hashtable.h(139): warning C4018: '<': signed/unsigned mismatch
+  d:\algorithms(c++)\assign4\project13\hashtable.h(137): note: while compiling class template member function 'bool HashTable<int,__int64>::ValueExists(T)'
+          with
+          [
+              T=int
+          ]
+  d:\algorithms(c++)\assign4\project13\main.cpp(50): note: see reference to function template instantiation 'bool HashTable<int,__int64>::ValueExists(T)' being compiled
+          with
+          [
+              T=int
+          ]
+d:\algorithms(c++)\assign4\project13\hashtable.h(141): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign4\project13\hashtable.h(123): warning C4018: '<': signed/unsigned mismatch
+  d:\algorithms(c++)\assign4\project13\hashtable.h(120): note: while compiling class template member function 'bool HashTable<int,__int64>::KeyExists(K)'
+          with
+          [
+              K=__int64
+          ]
+  d:\algorithms(c++)\assign4\project13\main.cpp(49): note: see reference to function template instantiation 'bool HashTable<int,__int64>::KeyExists(K)' being compiled
+          with
+          [
+              K=__int64
+          ]
+  Project13.vcxproj -> D:\Algorithms(C++)\Assign4\Debug\Project13.exe
