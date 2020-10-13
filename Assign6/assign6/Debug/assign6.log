@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\algorithms(c++)\assign6\assign6\change.h(27): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign6\assign6\kmp.h(47): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign6\assign6\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign6\assign6\main.cpp(110): warning C4018: '<': signed/unsigned mismatch
+d:\algorithms(c++)\assign6\assign6\heap.h(91): warning C4715: 'Heap::Top': not all control paths return a value
+  assign6.vcxproj -> D:\Algorithms(C++)\Assign6\Debug\assign6.exe
